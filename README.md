@@ -1,6 +1,6 @@
 ### seja bem vindo 👋
 
-ola sou o João melo, sou um programado FULL stack, atualmente estou aprendendo e criando projetos com:
+ola sou o João melo, sou um programado fullstack, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
