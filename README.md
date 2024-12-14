@@ -25,4 +25,4 @@ Estou sempre aberto a novas conexões e oportunidades para colaborar em projetos
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joaomelo90&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomelo90)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomelo90&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
