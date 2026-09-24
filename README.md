@@ -1,4 +1,4 @@
-### # 👋 Olá! Eu sou João Melo
+###  👋 Olá! Eu sou João Melo
 
 ### 💻 Desenvolvedor Node.js Júnior | Backend & Full Stack
 
